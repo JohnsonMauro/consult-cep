@@ -1,0 +1,23 @@
+{
+  "name": "consult-cep",
+  "version": "1.0.0",
+  "description": "Api para consultar Cep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnsonMauro/consult-cep.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Johnson Mauro <johnsonmauro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnsonMauro/consult-cep/issues"
+  },
+  "homepage": "https://github.com/JohnsonMauro/consult-cep#readme"
+}
