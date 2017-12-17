@@ -28,3 +28,17 @@ $ cd consult-cep
 ## Versioning
 
 To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
+
+
+## Técnicas a ser usadas
+    Pure Functions
+    Currying
+    Filter 
+    Map
+    Compose 
+    Semântica no código
+    Promise
+
+## Tecnologias 
+    NodeJS
+    Express
